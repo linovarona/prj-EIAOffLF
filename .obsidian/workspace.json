@@ -11,14 +11,10 @@
             "id": "a6b2dc57485f93da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Inbox/documento_rector v0.1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "documento_rector v0.1"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Inbox/documento_rector v0.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Inbox/documento_rector v0.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +155,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Inbox/documento_rector v0.1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,8 +183,13 @@
   },
   "active": "a6b2dc57485f93da",
   "lastOpenFiles": [
-    "documento_rector v0.1.md",
     "00-Inbox/documento_rector v0.1.md",
+    "00-Inbox/doc_rector v0.1.md",
+    "00-Inbox/nota_llm_wiki.md",
+    "00-Inbox/LLM_Wiki.md",
+    "00-Inbox/nota_metodologia_tiago_forte.md",
+    "00-Inbox/nota_Metodologia_Tiago_Forte.md",
+    "documento_rector v0.1.md",
     "00-Inbox"
   ]
 }
